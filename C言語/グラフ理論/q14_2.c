@@ -1,4 +1,4 @@
-//　2 駅離れた駅のうち最も遠い駅までの距離を計算する関数two_hop_kyori を定義
+// 2 駅離れた駅のうち最も遠い駅までの距離を計算する関数two_hop_kyori を定義
 #include <stdio.h>
 #include <stdlib.h>
 char buf[256];
